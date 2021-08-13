@@ -1,0 +1,19 @@
+.navbar-brand {
+    margin-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+/* .navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    align-content: flex-end;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-right: 200px;
+} */
+.navbar-left {
+    float: left;
+    margin-left: 15px;
+  }
