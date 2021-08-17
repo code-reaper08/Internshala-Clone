@@ -127,9 +127,22 @@ body > form > button > img {
 body > div > h2 {
     margin-top: 50px;
 }
-body > div > p{
+body > div > div.container > div > div:nth-child(1) > p{
     font-size: x-large;
     font-weight: 400;
     opacity: 90%;
-    margin-top: 20px;
+    /* margin-top: 20px; */
+}
+body > div > div.container {
+    margin-left: -14px;
+    margin-top: 15px;
+}
+body > div > div.container > div > div:nth-child(2) > span {
+    font-weight: 400;
+    font-weight: bolder;
+    font-size: larger;
+    color: #008BDC;
+}
+body > div > div.container > div > div:nth-child(2){
+    text-align: right;
 }
