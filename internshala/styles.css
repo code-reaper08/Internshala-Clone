@@ -67,10 +67,12 @@
     flex-direction: row;
     margin-top: 10px;
 }
-#Reg_button{
+#Reg_button {
     background-color: #008BDC;
     color: white;
     border-radius: 5px;
+    width: 132px;
+    text-align: center;
     margin-top: 5px;
 }
 #Reg_button:hover{
@@ -118,4 +120,7 @@
     color: #fff;
     background-color: #006BC2;
     border-color: #006BC2;
+}
+body > form > button > img {
+    width: 27px;
 }
