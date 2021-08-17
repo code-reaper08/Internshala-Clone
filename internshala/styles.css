@@ -124,3 +124,12 @@
 body > form > button > img {
     width: 27px;
 }
+body > div > h2 {
+    margin-top: 50px;
+}
+body > div > p{
+    font-size: x-large;
+    font-weight: 400;
+    opacity: 90%;
+    margin-top: 20px;
+}
