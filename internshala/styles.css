@@ -132,6 +132,7 @@ body > div > div.container > div > div:nth-child(1) > p{
     font-weight: 400;
     opacity: 90%;
     /* margin-top: 20px; */
+    margin-bottom: 47px;
 }
 body > div > div.container {
     margin-left: -14px;
@@ -155,11 +156,13 @@ body > div > div.d-flex.justify-content-between{
 }
 p-2 bd-highlight {
     margin-right: 50px;
+    margin-top: 34px;
 }
 .cities {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-top: 27px;
 }
 .cityitem{
     display: flex;
@@ -190,4 +193,7 @@ p-2 bd-highlight {
 }
 .citytext{
     padding-top: inherit;
+}
+body > div > h4 {
+    font-size: 22px;
 }
