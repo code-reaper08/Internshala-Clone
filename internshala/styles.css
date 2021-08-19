@@ -153,3 +153,6 @@ body > div > div.d-flex.justify-content-between{
         margin-top: 30px;
         margin-bottom: 30px;
 }
+p-2 bd-highlight {
+    margin-right: 50px;
+}
