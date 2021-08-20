@@ -203,3 +203,22 @@ body > div > h4:nth-child(6) {
 #itrain{
     margin-top: 100px;
 }
+body > div > div.row > div:nth-child(2){
+    text-align: right;
+}
+body > div > div.row > div:nth-child(2) > span {
+    font-weight: 400;
+    font-weight: bolder;
+    font-size: larger;
+    color: #008BDC;
+}
+body > div > div.row > div:nth-child(1) > p {
+    font-size: x-large;
+    font-weight: 400;
+    opacity: 90%;
+    /* margin-top: 20px; */
+    margin-bottom: 47px;
+}
+body > div > div.row {
+    margin-top: 30px;
+}
