@@ -379,3 +379,16 @@ body > nav {
     margin-left: 6px;
     letter-spacing: .5px;
 }
+#foo > div > a {
+    text-decoration: none;
+    font-size: large;
+    color: darkgoldenrod;
+}
+#me {
+    background-color: black;
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 5px black;
+    width: fit-content;
+    margin-left: 652px;
+}
