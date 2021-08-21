@@ -296,3 +296,12 @@ body > nav {
     width: 100%;
     text-align: center;
 }
+.foocon{
+    margin-top: 40px;
+    margin-bottom: 16px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
