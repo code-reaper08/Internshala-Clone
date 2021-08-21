@@ -291,3 +291,8 @@ body > div > div.cities1 > a:nth-child(2){
 body > nav {
     box-shadow: 0 1px 3px 0 rgb(0 0 0 / 15%);
 }
+#foo {
+    background-color: #333;
+    width: 100%;
+    text-align: center;
+}
