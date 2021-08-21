@@ -327,6 +327,7 @@ body > nav {
     padding-top: 24px;
     padding-bottom: 40px;
     margin-left: 150px;
+    margin-right: 150px;
 }
 #foo > div.foo2 > a {
     font-weight: 500;
@@ -351,4 +352,32 @@ body > nav {
 }
 #foo > div.foo2 > a > div > img {
     width: 24px;
+}
+.socialsbox {
+    display: inline-block;
+    float: left;
+    padding: 9px 0;
+}
+#foo > div.foo2 > div > a:nth-child(3) > img {
+    width: 40px;
+}
+.socimg {
+    padding-right: 15px;
+}
+.cp{
+    display: inline-block;
+    float: right;
+    padding: 9px 0;
+}
+#foo > div.foocon > div:nth-child(3) > div.foolist > h5 > span {
+    background-color: #FF8C00;
+    color: #fff;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 12px;
+    padding: 3px 6px;
+    margin-left: 6px;
+    letter-spacing: .5px;
+    padding: 3px;
+    margin-left: 4px;
 }
